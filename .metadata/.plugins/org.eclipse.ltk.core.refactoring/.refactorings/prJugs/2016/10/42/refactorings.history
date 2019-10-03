@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;prJugException/src/prJugException&apos;&#x0A;- Original project: &apos;prJugs&apos;&#x0A;- Destination element: &apos;prJugException/src/prJugException&apos;&#x0A;- Original elements:&#x0A;     prJugs.Jug.java&#x0A;     prJugs.TestJugs.java" description="Copy compilation units" destination="=prJugException/src&lt;prJugException" element1="/src&lt;prJugs{Jug.java" element2="/src&lt;prJugs{TestJugs.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1476465254924" units="2" version="1.0"/>
+</session>

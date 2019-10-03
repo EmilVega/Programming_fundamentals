@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;w2&apos; in &apos;prSimpleCollectionWordCounter.WordInTextTest.main(...)&apos; to &apos;w4&apos;&#x0A;- Original project: &apos;prSimpleCollectionWordCounter&apos;&#x0A;- Original element: &apos;prSimpleCollectionWordCounter.WordInTextTest.main(String[]).w2&apos;&#x0A;- Renamed element: &apos;w2&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;w2&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;prSimpleCollectionWordCounter{WordInTextTest.java[WordInTextTest~main~\[QString;@w2!245!282!256!257!QWordInText;!0!false" name="w4" references="true" stamp="1480255177772" version="1.0"/>
+</session>
